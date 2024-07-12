@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.72.1",
-    "react-native-piratechain": "^0.4.14",
+    "react-native": "0.74.3",
+    "react-native-piratechain": "../react-native-piratechain",
     "react-native-zcash": "^0.7.4"
   },
   "devDependencies": {
@@ -23,7 +23,7 @@
     "@react-native/metro-config": "^0.72.7",
     "@tsconfig/react-native": "^3.0.0",
     "@types/metro-config": "^0.76.3",
-    "@types/react": "^18.0.24",
+    "@types/react": "^18.2.6",
     "@types/react-test-renderer": "^18.0.0",
     "babel-jest": "^29.2.1",
     "eslint": "^8.19.0",
